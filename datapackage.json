@@ -1,0 +1,22 @@
+{
+  "resources": [
+    {
+      "name": "article",
+      "type": "text",
+      "path": "index.md",
+      "scheme": "file",
+      "format": "md",
+      "mediatype": "text/markdown",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "index",
+      "type": "text",
+      "path": "index.html",
+      "scheme": "file",
+      "format": "html",
+      "mediatype": "text/html",
+      "encoding": "utf-8"
+    }
+  ]
+}
